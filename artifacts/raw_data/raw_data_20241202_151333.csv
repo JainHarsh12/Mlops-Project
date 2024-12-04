@@ -1,7 +1,0 @@
-id,model_name,version,created_at,metrics,hyperparameters
-1,ModelA,1.0,2024-12-02 15:12:55,"{""accuracy"": 0.95}","{""epochs"": 10, ""learning_rate"": 0.001}"
-2,ModelB,2.0,2024-12-02 15:12:55,"{""accuracy"": 0.9}","{""epochs"": 20, ""learning_rate"": 0.01}"
-3,ModelA,1.0,2024-12-02 15:12:58,"{""accuracy"": 0.95}","{""epochs"": 10, ""learning_rate"": 0.001}"
-4,ModelB,2.0,2024-12-02 15:12:58,"{""accuracy"": 0.9}","{""epochs"": 20, ""learning_rate"": 0.01}"
-5,ModelA,1.0,2024-12-02 15:13:03,"{""accuracy"": 0.95}","{""epochs"": 10, ""learning_rate"": 0.001}"
-6,ModelB,2.0,2024-12-02 15:13:03,"{""accuracy"": 0.9}","{""epochs"": 20, ""learning_rate"": 0.01}"

@@ -1,5 +1,0 @@
-accuracy,learning_rate,epochs,model_name
-0.9,0.01,20,ModelB
-0.95,0.001,10,ModelA
-0.95,0.001,10,ModelA
-0.9,0.01,20,ModelB

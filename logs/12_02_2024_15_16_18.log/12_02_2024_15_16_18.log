@@ -1,0 +1,4 @@
+[ 2024-12-02 15:16:21,999 ] 7 root - INFO - The execution has started.
+[ 2024-12-02 15:16:22,067 ] 16 root - INFO - Data ingestion completed.
+[ 2024-12-02 15:16:22,067 ] 17 root - INFO - Training data saved at: artifacts/raw_data\train_data_20241202_151622.csv
+[ 2024-12-02 15:16:22,067 ] 18 root - INFO - Testing data saved at: artifacts/raw_data\test_data_20241202_151622.csv

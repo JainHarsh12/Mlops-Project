@@ -1,0 +1,2 @@
+[ 2024-12-02 15:13:33,225 ] 7 root - INFO - The execution has started.
+[ 2024-12-02 15:13:33,266 ] 16 root - INFO - Data ingestion completed. File saved at: artifacts/raw_data\raw_data_20241202_151333.csv

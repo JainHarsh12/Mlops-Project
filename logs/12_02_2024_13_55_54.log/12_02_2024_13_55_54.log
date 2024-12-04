@@ -1,0 +1,2 @@
+[ 2024-12-02 13:55:55,333 ] 7 root - INFO - The execution has started.
+[ 2024-12-02 13:56:00,011 ] 19 root - ERROR - An error occurred during execution: No data found in the database!
